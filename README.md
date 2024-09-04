@@ -1,4 +1,4 @@
-## Hi 👋 I'm Agamjot Sodhi
+# Hi 👋 I'm Agamjot Sodhi
 
 <!--
 **agamjotsodhi/agamjotsodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm a Software Engineering Fellow at Springboard with a passion for coding, machine learning, and building robust applications.<br>
 # 🔭 Currently working on: 
-Developing Curated, a full-stack web-based art discovery engine—check it out! <br>
-<br>Enhancing backend skills through Node.js projects and exercises.<br>
+- Developing Curated, a full-stack web-based art discovery engine—check it out! <br>
+- Enhancing backend skills through Node.js projects and exercises.<br>
 # 🎓 About Me:
-Pursuing a Software Engineering Certificate at Springboard.<br>
-Graduated from the University of Waterloo with a degree in Global Business and Digital Arts, specializing in UX design.<br>
-Formerly at Microsoft, where I worked with Azure AI and machine learning technologies.
+- Pursuing a Software Engineering Certificate at Springboard.<br>
+- Graduated from the University of Waterloo with a degree in Global Business and Digital Arts, specializing in UX design.<br>
+- Formerly at Microsoft, where I worked with Azure AI and machine learning technologies.
 
 
 ## 🌐 Socials:
